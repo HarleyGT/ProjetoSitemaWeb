@@ -31,3 +31,4 @@ C:\Users\harley.goncalves_gru\Desktop\Anotações\Udemy\C#\Projetos Programaçã
 C:\Users\harley.goncalves_gru\Desktop\Anotações\Udemy\C#\Projetos Programação\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.pdb
 C:\Users\harley.goncalves_gru\Desktop\Anotações\Udemy\C#\Projetos Programação\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.genruntimeconfig.cache
 C:\Users\harley.goncalves_gru\Desktop\Anotações\Udemy\C#\Projetos Programação\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\ref\SalesWebMVC.dll
+C:\Users\harley.goncalves_gru\Desktop\Anotações\Udemy\C#\Projetos Programação\SalesWebMVC\SalesWebMVC\obj\Debug\net8.0\SalesWebMVC.sourcelink.json
