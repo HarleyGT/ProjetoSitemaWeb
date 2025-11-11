@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,56 +19,8 @@
       "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\migrations\\saleswebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\migrations\\saleswebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\migrations\\20251111141510_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\migrations\\20251111141510_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,240 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251111172758_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs",
-              "RelativeToolTip": "SalesWebMVC\\Migrations\\20251111172758_OtherEntities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs*",
+              "RelativeToolTip": "SalesWebMVC\\Models\\Seller.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T17:27:58.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SalesWebMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:07:58.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SaleStatus.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\Enums\\SaleStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T15:59:02.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T15:56:37.808Z",
+              "WhenOpened": "2025-11-11T19:12:15.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Seller.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Seller.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\Seller.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAABgAAAAAAAAAA==",
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs*",
+              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T15:54:21.1Z",
+              "WhenOpened": "2025-11-11T19:12:05.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T15:37:16.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20251111141510_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\20251111141510_Initial.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\20251111141510_Initial.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\20251111141510_Initial.cs",
-              "RelativeToolTip": "SalesWebMVC\\Migrations\\20251111141510_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:15:11.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Departments\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T13:51:28.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "SalesWebMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\appsettings.json",
-              "RelativeToolTip": "SalesWebMVC\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-11T13:28:32.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs*",
+              "RelativeToolTip": "SalesWebMVC\\Models\\Department.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T12:33:40.877Z",
+              "WhenOpened": "2025-11-11T19:11:53.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SalesWebMVCContext.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Data\\SalesWebMVCContext.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Data\\SalesWebMVCContext.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Data\\SalesWebMVCContext.cs",
-              "RelativeToolTip": "SalesWebMVC\\Data\\SalesWebMVCContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Data\\SeedingService.cs",
+              "RelativeToolTip": "SalesWebMVC\\Data\\SeedingService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:27:25.639Z",
+              "WhenOpened": "2025-11-11T19:08:04.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SalesWebMVCContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
-              "RelativeToolTip": "SalesWebMVC\\Migrations\\SalesWebMVCContextModelSnapshot.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:20:02.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "SalesWebMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "SalesWebMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-11T15:31:10.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-11T15:31:35.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T13:26:32.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:26:17.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
               "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeToolTip": "SalesWebMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:23:16.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Details.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Details.cshtml",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Details.cshtml",
-              "RelativeToolTip": "SalesWebMVC\\Views\\Departments\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T13:51:29.873Z",
               "EditorCaption": ""
             }
           ]
