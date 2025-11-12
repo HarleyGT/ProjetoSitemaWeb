@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using SalesWebMVC.Data;
 using SalesWebMVC.Models;
+using SalesWebMVC.Services;
 
 namespace SalesWebMVC
 {
@@ -12,6 +13,12 @@ namespace SalesWebMVC
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<SalesWebMVCContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("SalesWebMVCContext") ?? throw new InvalidOperationException("Connection string 'SalesWebMVCContext' not found.")));;
+
+            // Add DepartmentService
+            builder.Services.AddScoped<DepartmentService>();
+
+            // Add SellerService
+            builder.Services.AddScoped<SellerService>();
 
             // Add Seeding Service.
             builder.Services.AddScoped<SeedingService>();
