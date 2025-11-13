@@ -1,12 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.DataAnnotations;
-using Microsoft.EntityFrameworkCore;
 using SalesWebMVC.Models;
-using SalesWebMVC.Models.Enums;
 using SalesWebMVC.Services;
 using SalesWebMVC.Models.ViewModels;
-using SalesWebMVC.Services.Exceptions;
-using Microsoft.AspNetCore.Authentication.BearerToken;
 using System.Diagnostics;
 
 
@@ -38,6 +33,25 @@ namespace SalesWebMVC.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Seller seller)
         {
+            Console.WriteLine("❌ ModelState inválido — detalhes dos erros:");
+
+            foreach (var state in ModelState)
+            {
+                var key = state.Key;
+                var errors = state.Value.Errors;
+
+                foreach (var error in errors)
+                {
+                    Console.WriteLine($" → Campo: {key} | Erro: {error.ErrorMessage}");
+                }
+            }
+
+            if (!ModelState.IsValid)
+            {
+                var departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            }
             _sellerService.Insert(seller);
             return RedirectToAction(nameof(Index));
         }
@@ -102,6 +116,13 @@ namespace SalesWebMVC.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Seller seller)
         {
+            if (!ModelState.IsValid)
+            {
+                var departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            }
+
             if (id != seller.Id)
             {
                 return RedirectToAction(nameof(Error), new { message = "Id mismatch" });
