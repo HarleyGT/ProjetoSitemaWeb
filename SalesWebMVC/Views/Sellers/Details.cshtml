@@ -36,10 +36,20 @@
         <dd>
             @Html.DisplayFor(Model => Model.BaseSalary)
         </dd>
+        <dt>
+            @Html.DisplayNameFor(Model => Model.Department)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.Department.Name)
+        </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+    <!--/*<span class="material-symbols-outlined">
+        arrow_back
+    </span>
+    <i class="material-icons">arrow_back</i>-->
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
     <a asp-action="Index">Back to List</a>
 </div>
 

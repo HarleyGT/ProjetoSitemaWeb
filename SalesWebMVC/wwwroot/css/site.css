@@ -20,3 +20,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+dl {
+    display: grid;
+    grid-template-columns: max-content auto; /* 1ª coluna ajusta ao tamanho do dt, 2ª ocupa o restante */
+    gap: 4px 12px; /* espaçamento entre linhas e colunas */
+    align-items: center; /* alinha verticalmente */
+}
+
+dt {
+    font-weight: bold;
+    text-align: right; /* deixa o texto alinhado à direita */
+}
+
+dd {
+    margin: 0; /* remove margem padrão */
+}
