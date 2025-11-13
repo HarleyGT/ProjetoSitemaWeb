@@ -4,6 +4,9 @@ using SalesWebMVC.Data;
 using SalesWebMVC.Models;
 using SalesWebMVC.Services;
 
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
+
 namespace SalesWebMVC
 {
     public class Program
@@ -38,6 +41,16 @@ namespace SalesWebMVC
 
             if (app.Environment.IsDevelopment())
             {
+
+                var unUS = new CultureInfo("en-US");
+                var localizationOptions = new RequestLocalizationOptions
+                {
+                    DefaultRequestCulture = new RequestCulture(unUS),
+                    SupportedCultures = new List<CultureInfo> { unUS },
+                    SupportedUICultures = new List<CultureInfo> { unUS }
+                };
+
+                app.UseRequestLocalization(localizationOptions);
                 app.UseDeveloperExceptionPage();
 
                 using (var scope = app.Services.CreateScope())
