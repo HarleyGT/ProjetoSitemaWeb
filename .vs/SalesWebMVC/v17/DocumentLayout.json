@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,24 +77,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesWebMVCContext.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SalesWebMVCContext.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SalesWebMVCContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:20:15.595Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SalesRecord.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs*",
+              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:32:48.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SalesRecordService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\SalesRecordService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SalesRecordService.cs",
@@ -117,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
@@ -130,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GroupingSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SimpleSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
@@ -169,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
@@ -182,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SalesRecordsController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SalesRecordsController.cs",
@@ -195,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IntegrityException.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
@@ -221,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SellerService.cs",
@@ -234,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\DepartmentService.cs",
@@ -247,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
@@ -273,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SellersController.cs",

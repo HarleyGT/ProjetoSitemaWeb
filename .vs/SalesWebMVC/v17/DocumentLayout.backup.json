@@ -3,16 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullTriggerTemplate.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullAlterTable.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullCreateTable.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 20\\Common7\\IDE\\SQL\\Snippets\\1046\\Table\\Create Table.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\services\\salesrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCB9F77E-5B45-45D6-A411-950DB5A115D9}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\harley.goncalves_gru\\desktop\\anota\u00E7\u00F5es\\udemy\\c#\\projetos programa\u00E7\u00E3o\\saleswebmvc\\saleswebmvc\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,11 +89,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FullTriggerTemplate.snippet",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullTriggerTemplate.snippet",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Snippets\\FullTriggerTemplate.snippet",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullTriggerTemplate.snippet",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Snippets\\FullTriggerTemplate.snippet",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
+              "WhenOpened": "2025-11-18T18:38:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullCreateTable.snippet",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullCreateTable.snippet",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Snippets\\FullCreateTable.snippet",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullCreateTable.snippet",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Snippets\\FullCreateTable.snippet",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
+              "WhenOpened": "2025-11-18T18:36:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullAlterTable.snippet",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullAlterTable.snippet",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Snippets\\FullAlterTable.snippet",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Snippets\\FullAlterTable.snippet",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Snippets\\FullAlterTable.snippet",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
+              "WhenOpened": "2025-11-18T18:36:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesWebMVCContext.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SalesWebMVCContext.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\SalesWebMVCContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SalesWebMVCContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:20:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create Table.snippet",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 20\\Common7\\IDE\\SQL\\Snippets\\1046\\Table\\Create Table.snippet",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Microsoft SQL Server Management Studio 20\\Common7\\IDE\\SQL\\Snippets\\1046\\Table\\Create Table.snippet",
+              "ToolTip": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 20\\Common7\\IDE\\SQL\\Snippets\\1046\\Table\\Create Table.snippet",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Microsoft SQL Server Management Studio 20\\Common7\\IDE\\SQL\\Snippets\\1046\\Table\\Create Table.snippet",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
+              "WhenOpened": "2025-11-17T17:38:59.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Models\\SalesRecord.cs*",
+              "RelativeToolTip": "SalesWebMVC\\Models\\SalesRecord.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:32:48.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
@@ -87,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SalesRecordService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\SalesRecordService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SalesRecordService.cs",
@@ -100,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
@@ -113,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "GroupingSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\GroupingSearch.cshtml",
@@ -126,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SimpleSearch.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\SimpleSearch.cshtml",
@@ -139,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\_Layout.cshtml",
@@ -152,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\SalesRecords\\Index.cshtml",
@@ -165,12 +262,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "SalesRecordsController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SalesRecordsController.cs",
-              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs*",
-              "RelativeToolTip": "SalesWebMVC\\Controllers\\SalesRecordsController.cs*",
+              "ToolTip": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SalesRecordsController.cs",
+              "RelativeToolTip": "SalesWebMVC\\Controllers\\SalesRecordsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T12:20:32.285Z",
@@ -178,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "IntegrityException.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\Exceptions\\IntegrityException.cs",
@@ -191,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Delete.cshtml",
@@ -204,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\SellerService.cs",
@@ -217,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Services\\DepartmentService.cs",
@@ -230,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Create.cshtml",
@@ -243,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Sellers\\Edit.cshtml",
@@ -256,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\harley.goncalves_gru\\Desktop\\Anota\u00E7\u00F5es\\Udemy\\C#\\Projetos Programa\u00E7\u00E3o\\SalesWebMVC\\SalesWebMVC\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\SellersController.cs",
